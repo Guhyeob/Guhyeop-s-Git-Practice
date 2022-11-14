@@ -1,6 +1,7 @@
 <html>
 	<head>
-		git 수업
+		<meta charset="UTF-8"/>
+		<title>git 수업</title>
 	</head>
 	<body>
 		<header>
