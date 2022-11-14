@@ -6,11 +6,12 @@
 		<header>
 			<h1>Git</h1>
 		</header>
-		
-		<ul> Git 소개 </ul>
-		<ul> 버전 </ul>
-		<ul> Test </ul>
-		<ul> 실험2 </ul>
-		
+		<ul>
+			<li> Git 소개 </li>
+			<li> 버전 </li>
+			<li> Test </li>
+			<li> 실험2 </li>
+			<li> 충돌 </li>
+		</ul>
 	</body>
 </html>
