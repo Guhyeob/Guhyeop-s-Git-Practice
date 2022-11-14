@@ -9,5 +9,6 @@
 		
 		<ul> Git 소개 </ul>
 		<ul> 버전 </ul>
+		<ul> Test </ul>
 	</body>
 </html>
