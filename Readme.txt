@@ -19,7 +19,8 @@
 			<li> push </li>
 			<li> pull </li>
 			<li> push.egoing </li>
-			<li> conflict.egoing </li>
+			<li> pull.leezche </li>
+			<li> conflict.egoing.leezche </li>
 		</ul>
 	</body>
 </html>
