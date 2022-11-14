@@ -3,5 +3,8 @@
 		<header>
 			<h1>Git</h1>
 		</header>
+		
+		<ul> Git 소개 </ul>
+		<ul> 버전 </ul>
 	</body>
 </html>
