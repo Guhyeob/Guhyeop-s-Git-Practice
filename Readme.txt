@@ -12,6 +12,7 @@
 			<li> Test </li>
 			<li> 실험2 </li>
 			<li> 충돌 </li>
+			<li> 충돌해결 </li>
 		</ul>
 	</body>
 </html>
